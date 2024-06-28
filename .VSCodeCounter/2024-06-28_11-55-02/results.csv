@@ -1,0 +1,26 @@
+"filename", "language", "JavaScript", "Vue", "SCSS", "CSS", "comment", "blank", "total"
+"c:\Users\User\Desktop\黑馬\vue 3_big_event\Vue3-big-event-admin\src\App.vue", "Vue", 0, 10, 0, 0, 2, 2, 14
+"c:\Users\User\Desktop\黑馬\vue 3_big_event\Vue3-big-event-admin\src\api\article.js", "JavaScript", 20, 0, 0, 0, 9, 5, 34
+"c:\Users\User\Desktop\黑馬\vue 3_big_event\Vue3-big-event-admin\src\api\user.js", "JavaScript", 13, 0, 0, 0, 7, 6, 26
+"c:\Users\User\Desktop\黑馬\vue 3_big_event\Vue3-big-event-admin\src\assets\main.css", "CSS", 0, 0, 0, 16, 0, 3, 19
+"c:\Users\User\Desktop\黑馬\vue 3_big_event\Vue3-big-event-admin\src\assets\main.scss", "SCSS", 0, 0, 16, 0, 0, 4, 20
+"c:\Users\User\Desktop\黑馬\vue 3_big_event\Vue3-big-event-admin\src\components\PageContainer.vue", "Vue", 0, 33, 0, 0, 3, 3, 39
+"c:\Users\User\Desktop\黑馬\vue 3_big_event\Vue3-big-event-admin\src\components\TestDemo.vue", "Vue", 0, 4, 0, 0, 0, 2, 6
+"c:\Users\User\Desktop\黑馬\vue 3_big_event\Vue3-big-event-admin\src\main.js", "JavaScript", 9, 0, 0, 0, 4, 4, 17
+"c:\Users\User\Desktop\黑馬\vue 3_big_event\Vue3-big-event-admin\src\router\index.js", "JavaScript", 44, 0, 0, 0, 16, 4, 64
+"c:\Users\User\Desktop\黑馬\vue 3_big_event\Vue3-big-event-admin\src\stores\index.js", "JavaScript", 7, 0, 0, 0, 11, 3, 21
+"c:\Users\User\Desktop\黑馬\vue 3_big_event\Vue3-big-event-admin\src\stores\modules\counter.js", "JavaScript", 12, 0, 0, 0, 1, 1, 14
+"c:\Users\User\Desktop\黑馬\vue 3_big_event\Vue3-big-event-admin\src\stores\modules\user.js", "JavaScript", 34, 0, 0, 0, 8, 4, 46
+"c:\Users\User\Desktop\黑馬\vue 3_big_event\Vue3-big-event-admin\src\utils\format.js", "JavaScript", 2, 0, 0, 0, 1, 1, 4
+"c:\Users\User\Desktop\黑馬\vue 3_big_event\Vue3-big-event-admin\src\utils\request.js", "JavaScript", 41, 0, 0, 0, 19, 4, 64
+"c:\Users\User\Desktop\黑馬\vue 3_big_event\Vue3-big-event-admin\src\views\article\ArticleChannel.vue", "Vue", 0, 133, 0, 0, 13, 5, 151
+"c:\Users\User\Desktop\黑馬\vue 3_big_event\Vue3-big-event-admin\src\views\article\ArticleManage.vue", "Vue", 0, 157, 0, 0, 20, 9, 186
+"c:\Users\User\Desktop\黑馬\vue 3_big_event\Vue3-big-event-admin\src\views\article\components\ArticleEdit.vue", "Vue", 0, 200, 0, 0, 12, 11, 223
+"c:\Users\User\Desktop\黑馬\vue 3_big_event\Vue3-big-event-admin\src\views\article\components\ChannelEdit.vue", "Vue", 0, 127, 0, 0, 2, 11, 140
+"c:\Users\User\Desktop\黑馬\vue 3_big_event\Vue3-big-event-admin\src\views\article\components\ChannelSelect.vue", "Vue", 0, 41, 0, 0, 5, 3, 49
+"c:\Users\User\Desktop\黑馬\vue 3_big_event\Vue3-big-event-admin\src\views\layout\LayoutContainer.vue", "Vue", 0, 164, 0, 0, 17, 7, 188
+"c:\Users\User\Desktop\黑馬\vue 3_big_event\Vue3-big-event-admin\src\views\login\LoginPage.vue", "Vue", 0, 235, 0, 0, 26, 4, 265
+"c:\Users\User\Desktop\黑馬\vue 3_big_event\Vue3-big-event-admin\src\views\user\UserAvatar.vue", "Vue", 0, 92, 0, 0, 3, 5, 100
+"c:\Users\User\Desktop\黑馬\vue 3_big_event\Vue3-big-event-admin\src\views\user\UserPassword.vue", "Vue", 0, 101, 0, 0, 0, 5, 106
+"c:\Users\User\Desktop\黑馬\vue 3_big_event\Vue3-big-event-admin\src\views\user\UserProfile.vue", "Vue", 0, 69, 0, 0, 5, 4, 78
+"Total", "-", 182, 1366, 16, 16, 184, 110, 1874
