@@ -9,39 +9,13 @@
 5. pnpm 工具箱管理 
 6. ESlint + Prettier 規範設置
 
-
-# Vue3-big-event-admin
-
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-pnpm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-pnpm dev
-```
-
-### Compile and Minify for Production
-
-```sh
-pnpm build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-pnpm lint
-```
+# 專案經開啟 Live Server 後瀏覽器畫面與對應檔案名稱如下
+1. 文章分類_ArticleChannel.jpeg
+2. 文章單選下拉框_ChannelSelect.jpeg
+3. 文章管理_ArticleManage.jpeg
+4. 修改密碼_UserPassword.jpeg
+5. 個人中心_更換大頭貼_UserAvatar.jpeg
+6. 個人中心_基本資料_UserProfile.jpeg
+7. 登入頁_LoginPage.jpeg
+8. 新增文章_ArticleEdit.jpeg
+9. 編輯文章_ArticleEdit.jpeg
