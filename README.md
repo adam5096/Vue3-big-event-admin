@@ -1,3 +1,6 @@
+# 專案原作者、影片來源
+[點我看原作者YouTube頻道](https://www.youtube.com/watch?v=7YDDbKH09uA&list=PLFbd8KZNbe-9ORQoy5UG9bczPvbHTebnS)
+
 # 本專案發想與用意
 第二個練習專案，做一個內容管理的系統後台，主要用來熟悉Vue2, 3和Element-Plus的語法和使用場景，以及了解專案的大致開發階段與流程
 
