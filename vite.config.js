@@ -18,10 +18,23 @@ export default defineConfig({
       resolvers: [ElementPlusResolver()]
     })
   ],
-  base: '', // 路由基址相關設置
+  // base: '/Vue3-big-event-admin/', // 路由基址相關設置
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
     }
+  },
+  // vite 優化依賴 & 預編譯
+  optimizeDeps: {
+    include: [
+      '@element-plus/icons-vue',
+      '@vueup/vue-quill',
+      'axios',
+      'element-plus',
+      'pinia',
+      'pinia-plugin-persistedstate',
+      'vue',
+      'vue-router'
+    ]
   }
 })
